@@ -17,7 +17,7 @@
  
  This application is similar to one I made for the Institute of Astrophysics and Space Sciences / Astrophysics Centre of the University of Porto. Comparing to the original one, this application has some details modified to not use their intellectual property. The original one accesses their API for data, whilst this one uses a different data source.
 
- <img width="500" alt="screenshot" src="https://github.com/carlahnr/astrophysics_dashboard/assets/100738389/47cd75de-242d-4be5-a757-371efa21eff8">
+ <img width="500" alt="screenshot" src="https://github.com/hiranobyrne/astrophysics_dashboard/assets/100738389/47cd75de-242d-4be5-a757-371efa21eff8">
 
 ## Project Setup
 
