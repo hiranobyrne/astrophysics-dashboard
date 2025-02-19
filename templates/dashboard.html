@@ -1,0 +1,27 @@
+{% extends "layout.html" %} {% block body %}
+<div class="embed-responsive">
+  <iframe src="/dash/" class="iframe_graph"></iframe>
+</div>
+<!-- TEMPLATE dynamic HTML datatable, instead of the dash generated one
+<div class="bottow-row-div d-flex flex-row justify-content-between">
+  <div class="left-div shadow p-3 mb-5 rounded flex-fill">mlsds</div>
+
+  <div class="table-responsive shadow p-3 mb-5 rounded">
+    <div class="div-title">
+      <a
+        class="btn btn-light"
+        href="#"
+        id="button1"
+        onclick="CopyToClipboard('table-div')"
+      >
+        <i class="bx bx-copy nav_icon"></i>
+        <span class="nav_name">Copy</span>
+      </a>
+    </div>
+    <div id="table-div">
+      {% for table in tables %} {{ table|safe }} {% endfor %}
+    </div>
+  </div>
+  -->
+</div>
+{% endblock %}
